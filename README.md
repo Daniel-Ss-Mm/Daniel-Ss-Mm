@@ -2,13 +2,13 @@
 ###
 - 👋 Hola, mi nombre es @Daniel-Ss-Mm
 - 👀 Me gusta el deporte, la música y el mar
-- 👨‍🎓 Soy estudiante de DAM en Centro Integral de Formación Profesional a Distancia "La Conservera", Murcia
-- 📖 Estoy matriculado en Formación Profesinal Grado Superior de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+- 👨‍🎓 Soy estudiante de DAM en el Centro Integral de Formación Profesional a Distancia "La Conservera", Ceutí, Murcia
+- 📖 Estoy matriculado en Formación Profesional Grado Superior de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 ---
 # Asignaturas en Curso
 ###
   - Digitalización Aplicada a los Sectores Productivos
-  - ~~Itinerario Personal Para la Empleabilidad~~
+  - ~~Itinerario Personal para la Empleabilidad~~
   - Inglés Profesional
   - Sistemas Informáticos
   - Programación
@@ -57,7 +57,7 @@
 ---
 # Entre mis logros académicos...
 ###
-- ⛵ *Técnico Deportivo en Vela*
+- ⛵ *Técnico Deportivo de Vela*
 - 🔌 *Técnico Especialista en Electricidad y Electrónica*
 - 👨‍🏫 *Diplomado en Magisterio en la espacialidad de Música*
 ---
