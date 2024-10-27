@@ -21,12 +21,17 @@
 - ***Librerías El Sótano*** ![Librerías el sótano 1](https://github.com/user-attachments/assets/ea46e019-33fa-4209-b0de-feab754452f0)
 ---
 # Entre mis aficiones se encuentran...
-👪 *Pasar tiempo con la familia*
-✈️ *Viajar*
-💻 *Programar*
-🏄 *Deportes de agua*
-🚵 *El ciclismo*
-
+- 👪 *Pasar tiempo con la familia*
+- ✈️ *Viajar*
+- 💻 *Programar*
+- 🚵 *El ciclismo*
+- 🎵 *La música*
+---
+# Entre mis logros académicos...
+###
+- ⛵ *Técnico Deportivo en Vela*
+- 🔌 *Técnico Especialista en Electricidad y Electrónica*
+- 👨‍🏫 *Diplomado en Magisterio en la espacialidad de Música*
 <!---
 Daniel-Ss-Mm/Daniel-Ss-Mm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
