@@ -8,7 +8,7 @@
 # Asignaturas en Curso
 ###
   - Digitalización Aplicada a los Sectores Productivos
-  - ~~Itinerario Personal Para la Empleavilidad~~
+  - ~~Itinerario Personal Para la Empleabilidad~~
   - Inglés Profesional
   - Sistemas Informáticos
   - Programación
