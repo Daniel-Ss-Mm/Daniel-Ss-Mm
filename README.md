@@ -2,9 +2,22 @@
 ###
 - 👋 Hola, mi nombre es @Daniel-Ss-Mm
 - 👀 Me gusta el deporte, la música y el mar
-- 🌱 Actualmente soy estudiante de DAM
-- 💞️ Estoy interesado en aprender a usar GitHub
-- 📫 Me puedes encontrar en 566823@alu.murciaeduca.es
+- 👨‍🎓 Soy estudiante de DAM en Centro Integral de Formación Profesional a Distancia "La Conservera", Murcia
+- 📖 Estoy matriculado en Formación Profesinal Grado Superior de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+---
+# Asignaturas en Curso
+###
+  - Digitalización Aplicada a los Sectores Productivos
+  - ~~Itinerario Personal Para la Empleavilidad~~
+  - Inglés Profesional
+  - Sistemas Informáticos
+  - Programación
+  - Bases de Datos
+  - Lenguajes de Marcas y Sistemas de Gestión de Información
+  - Entornos de Desarrollo
+---
+# Centro Formativo y Documentación Legal
+- 🏫 [La Conservera de Ceutí](https://sites.google.com/view/fplaconservera)
 ---
 # Lenguajes que espero dominar
 ###
