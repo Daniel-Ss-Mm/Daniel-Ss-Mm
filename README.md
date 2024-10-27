@@ -18,6 +18,7 @@
 ---
 # Centro Formativo y Documentación Legal
 - 🏫 [La Conservera de Ceutí](https://sites.google.com/view/fplaconservera)
+- ⚖️ [BOE](https://www.boe.es/eli/es/lo/2022/03/31/3/dof/spa/pdf)
 ---
 # Lenguajes que espero dominar
 ###
